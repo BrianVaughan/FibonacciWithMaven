@@ -33,7 +33,8 @@ public class FibonacciByRecursion {
     if(number == 1 || number == 2){
       return 1;
     }
-
+     //Chicken nugget
+    //Scott was here
     return fibonacci(number-1) + fibonacci(number -2);
   }
 }
